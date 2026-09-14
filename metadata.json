@@ -1,0 +1,6 @@
+{
+  "name": "ESP32-S3 Hi-Fi Audio Receiver",
+  "description": "ESP32-S3 N16R8 Wi-Fi Audio Receiver with UDA1334A I2S DAC, AirPlay & DLNA, Web Streamer, 3-Tone DSP EQ, AMOLED Web UI, and complete PlatformIO project generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
